@@ -2,7 +2,10 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+<<<<<<< HEAD
 import * as serviceWorkerRegistration from './serviceWorkerRegistration';
+=======
+>>>>>>> d7104a8e07b4c4e976e20bb35c0680190f5b891d
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
